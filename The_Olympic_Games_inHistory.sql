@@ -36,9 +36,9 @@ Identify which country won the most gold, most silver, most bronze medals and th
 
 Which countries have never won gold medal but have won silver/bronze medals?
 
-In which Sport/event, India has won highest medals.
+In which Sport/event,The United Sttes has won highest medals.
 
-Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.**/
+Break down all olympic games where teh United States won medal for Hockey and how many medals in each olympic games.**/
 
 --How many olympics games have been held?
 
